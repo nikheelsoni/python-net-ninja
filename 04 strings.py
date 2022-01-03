@@ -14,3 +14,5 @@ string = 'he\'s a mad man'
 greet = 'hello'
     
 print (greet[0])
+
+print (greet[0:3])
